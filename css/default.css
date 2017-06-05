@@ -7,7 +7,7 @@
 }
 
 body{
-   background-image: url(../img/mn_sora_yoru_14.jpg),url(../img/eilian.jpg);
+   background-image: url(../img/eilian.jpg),url(../img/mn_sora_yoru_14.jpg);
   background-repeat: no-repeat, no-repeat;
    background-color: lightgray;
    margin: 5px;
